@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactwk5pro2/static/css/main.263a33de.chunk.css",
+    "main.js": "/reactwk5pro2/static/js/main.bff25de4.chunk.js",
+    "main.js.map": "/reactwk5pro2/static/js/main.bff25de4.chunk.js.map",
+    "runtime-main.js": "/reactwk5pro2/static/js/runtime-main.92471896.js",
+    "runtime-main.js.map": "/reactwk5pro2/static/js/runtime-main.92471896.js.map",
+    "static/js/2.4c24cfc5.chunk.js": "/reactwk5pro2/static/js/2.4c24cfc5.chunk.js",
+    "static/js/2.4c24cfc5.chunk.js.map": "/reactwk5pro2/static/js/2.4c24cfc5.chunk.js.map",
+    "static/js/3.cf99be5b.chunk.js": "/reactwk5pro2/static/js/3.cf99be5b.chunk.js",
+    "static/js/3.cf99be5b.chunk.js.map": "/reactwk5pro2/static/js/3.cf99be5b.chunk.js.map",
+    "index.html": "/reactwk5pro2/index.html",
+    "static/css/main.263a33de.chunk.css.map": "/reactwk5pro2/static/css/main.263a33de.chunk.css.map",
+    "static/js/2.4c24cfc5.chunk.js.LICENSE.txt": "/reactwk5pro2/static/js/2.4c24cfc5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactwk5pro2/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92471896.js",
+    "static/js/2.4c24cfc5.chunk.js",
+    "static/css/main.263a33de.chunk.css",
+    "static/js/main.bff25de4.chunk.js"
+  ]
+}
